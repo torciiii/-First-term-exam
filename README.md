@@ -1,4 +1,10 @@
 # -First-term-exam
+Se debe estar en el entorno virtual:
+python -m venv venv
+y activar:
+.\.venv\Scripts\Activate.ps1 
+
+
 Este proyecto esta con contraseñas por defecto:
 contraseñas por defecto: 1234, 0000, 1111, 123456, password, admin123.
 
